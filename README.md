@@ -30,6 +30,9 @@ In summary, this project provides valuable insights into the performance of Netf
 - The movement of Netflix stock is generally similar to the three major indices, though it seems to be more correlated to the Nasdaq Composite which makes sense since it is a more tech-heavy index
 - Multiple mean reversions occurred in the price ratio of Netflix stock to its competitors Disney and Spotify in periods where the current price ratio was +/- 1 standard deviations from the historical mean price ratio
 
+## Example Visualization:
+![Netflix Distribution of Daily Returns](distribution-daily-returns.png)
+
 ## Python Version and Library Dependencies
 - Python (3.8.10)
 - matplotlib==3.7.0
