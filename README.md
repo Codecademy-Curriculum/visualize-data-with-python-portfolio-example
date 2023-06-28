@@ -25,7 +25,7 @@ The historical OHLC stock prices were scraped using the [yfinance](https://pypi.
 ## Conclusion: 
 In summary, this project provides valuable insights into the performance of Netflix stock from 2020 to 2022. Here are some key findings from the analysis:
 - The distribution of daily percent returns looks relatively symmetric around the mean of about 0.044% and standard deviation of about 3.27%, which tells us that, on average, Netflix stock tended to gain value
-- The outbreak of the COVID-19 pandemic coupled in economic shutdowns resulted in the most volatile month (March 2020) for Netflix during this period
+- The outbreak of the COVID-19 pandemic and economic shutdowns resulted in the most volatile month (March 2020) for Netflix during this period
 - Netflix has beaten EPS estimates in the last 5 quarterly earning reports (Q4-2021 to Q4-2022) which could be a sign that their stock price will rebound in the future
 - The movement of Netflix stock is generally similar to the three major indices, though it seems to be more correlated to the Nasdaq Composite which makes sense since it is a more tech-heavy index
 - Multiple mean reversions occurred in the price ratio of Netflix stock to its competitors Disney and Spotify in periods where the current price ratio was +/- 1 standard deviations from the historical mean price ratio
